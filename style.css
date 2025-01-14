@@ -1,0 +1,1130 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Inter", serif;
+    color: #0A2134;
+}
+
+
+.header {
+    width: 100%;
+}
+
+nav {
+    padding: 20px 0px;
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-box {
+    width: 204px;
+    height: 85px;
+}
+
+.logo-box img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.contact-box {
+    display: flex;
+    gap: 10px;
+}
+
+.contact-box .whatsapp-btn {
+    width: 166;
+    height: 40px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid #27AE60;
+    color: #27AE60;
+    padding: 10px 18px;
+    font-size: 16px;
+    font-weight: 500;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+}
+
+.callUs-btn {
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 10px 18px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ================================= career-opportunity-section START =============================   */
+
+.career-opportunity-section {
+    width: 100%;
+    padding-top: 40px;
+}
+
+
+.career-opportunity-inner-box {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.career-opportunity-inner-left {
+    width: 50%;
+    padding-top: 40px;
+}
+
+.career-opportunity-inner-left h1 {
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 68px;
+    margin: 15px 0px;
+}
+
+
+.career-opportunity-inner-left p {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 35px;
+    color: #0A2134;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ul li {
+    list-style: none;
+    color: #0A2134;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    margin: 9px 0px;
+}
+
+
+.career-opportunity-inner-left-btn-box {
+    display: flex;
+    gap: 8px;
+    margin-top: 30px;
+}
+
+.book-to-days-demo {
+    width: 278px;
+    height: 60px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 16px 48px 16px 48px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+}
+
+
+
+.download-btn {
+    width: 278px;
+    height: 60px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    border-radius: 8px;
+    color: #0A2134;
+    background-color: #FFFFFF;
+    border: 1px solid #D0D5DD;
+    padding: 16px 28px 16px 28px;
+    box-shadow: 0px 1px 2px 0px #1018280F, 0px 1px 3px 0px #1018281A;
+}
+
+
+
+
+
+.career-opportunity-inner-right {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+
+.circul {
+    width: 552px;
+    height: 552px;
+    background-color: #E9F5FF;
+    border-radius: 50%;
+    margin: auto;
+    position: absolute;
+    left: 13%;
+    top: -2%;
+}
+
+
+form {
+
+    width: 410px;
+    height: 491.9px;
+    border-radius: 8px;
+    padding: 40px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 2px 0px #1018280F, 0px 1px 3px 0px #1018281A;
+    z-index: 3;
+    margin: auto;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+
+    width: 330px;
+    height: 70px;
+    gap: 6px;
+}
+
+form input {
+    width: 330px;
+    height: 44px;
+    border-radius: 8px;
+    font-size: 18px;
+    border: 1px solid #D0D5DD;
+    background-color: #FFFFFF;
+    padding: 10px 14px;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+}
+
+
+
+.register-now {
+    width: 330px;
+    height: 44px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 10px 18px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+}
+
+
+
+
+
+
+
+
+/* ===========================  lpa-1000-section ================================================= */
+
+.lpa-1000-section {
+    width: 100%;
+}
+
+
+.lpa-1000-inner-section {
+    width: 90%;
+    padding: 15px 0px;
+    margin: 70px auto;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 0px 10px 0.3px #dfe8f0;
+}
+
+.lpa-1000-inner-section-div p:nth-child(1) {
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+
+
+.lpa-1000-inner-section-div p:nth-child(2) {
+    font-size: 16px;
+    font-weight: 700;
+    color: #43505B;
+}
+
+
+
+
+
+
+/* ======================================== key-highlight-scetion START ================================= */
+.key-highlight-scetion {
+    width: 100%;
+    background-color: #F7FAFF;
+}
+
+.key-highlight-scetion-inner-box {
+    margin: auto;
+    width: 90%;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.key-highlight-scetion-inner-box h2 {
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.key-highlight-scetion-inner-box p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+    margin: 15px 0px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+
+.card-items {
+    display: flex;
+    align-items: center;
+    padding: 10px 9px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    border-radius: 8px;
+    width: 370px;
+    height: 118px;
+}
+
+.card-img-box {
+    background-color: #E9F8FF;
+    height: 86px;
+    width: 86px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 15px;
+}
+
+
+
+.card-items h6 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+}
+
+.card-items p {
+    font-size: 15px;
+    font-weight: 600;
+    color: #43505B;
+}
+
+
+
+.book-free-class-btn {
+    width: 253px;
+    height: 60px;
+    margin: 30px auto;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 16px 48px 16px 48px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ==================================== top-career-section START =========================================== */
+.top-career-section {
+    width: 100%;
+}
+
+.top-career-section-inner-box {
+    margin: 30px auto;
+    width: 90%;
+}
+
+.top-career-section-inner-box h2 {
+    font-size: 44px;
+    text-align: center;
+    color: #0A2134;
+    margin-top: 30px;
+}
+
+.top-career-section-inner-box p {
+    font-size: 18px;
+    text-align: center;
+    color: #0A2134;
+    margin-top: 10px;
+}
+
+
+
+.top-career-card-container {
+    margin: 40px auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.top-career-card-item {
+    width: 270px;
+    height: 278px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 2px 2px #1018280D, 0px 2px 14px 2px #F2F4F7;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.top-career-card-item .img-box {
+    height: 56px;
+    width: 56px;
+    box-shadow: 0px 0px 0px 4px #F2F4F7, 0px 1px 2px 0px #1018280F;
+    margin-top: -30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-career-card-item h6 {
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: 2px;
+    color: #0A2134;
+    margin: 10px 0px;
+    line-height: 21.18px;
+}
+
+
+.top-career-card-item p {
+    font-size: 15px;
+    font-weight: 400;
+    word-spacing: 2px;
+    color: #0A2134;
+    text-align: left;
+    line-height: 22px;
+}
+
+
+
+
+
+
+
+
+
+/* ================================= get-certified-section START ==================================== */
+.get-certified-section {
+    width: 100%;
+    background-color: #F7FAFF;
+    padding: 50px 0px;
+}
+
+
+.get-certified-inner-section {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-certified-inner-section-left {
+    width: 586px;
+}
+
+.get-certified-inner-section-left h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.get-certified-inner-section-left p {
+    color: #0A2134;
+    font-size: 18px;
+    font-weight: 400px;
+    margin-bottom: 30px;
+
+}
+
+
+.get-certified-card {
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    display: flex;
+    align-items: center;
+    width: 570px;
+    height: 128px;
+    background-color: #FFFFFF;
+    padding: 20px 25px;
+    gap: 15px;
+    border-radius: 8px;
+    margin: 10px 0px;
+}
+
+.get-cerified-img-box {
+    width: 74px;
+    height: 74px;
+    background-color: #E9F5FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-certified-card h6 {
+    font-size: 20px;
+    color: #0A2134;
+    font-weight: 600;
+}
+
+.get-certified-card p {
+    font-size: 16px;
+    color: #0A2134;
+    font-weight: 400;
+}
+
+.book-free-class-get-certified-btn {
+    width: 253px;
+    height: 60px;
+    text-align: center;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 16px 48px 16px 48px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+
+.get-certified-inner-section-right {
+    width: 436px;
+    height: 617px;
+}
+
+.get-certified-inner-section-right img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+/* =========================================== curriculumn-section START ============================================ */
+.curriculumn-section {
+    width: 100%;
+}
+
+.curriculumn-inner-section {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.curriculumn-inner-section h2 {
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.curriculumn-inner-section p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.curriculumn-inner-section ul {
+    display: flex;
+    justify-content: space-between;
+    color: #43505B;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+
+.curriculumn-inner-section-ul-box {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px
+}
+
+.curriculumn-inner-section-ul-box ul {
+    display: flex;
+    flex-direction: column;
+    color: #0A2134;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 20px;
+
+}
+
+.curriculumn-inner-section-ul-box ul li>img {
+    margin-right: 7px;
+    vertical-align: middle;
+}
+
+
+.curriculumn-inner-section-btn {
+    width: 288px;
+    align-self: center;
+    margin: 80px 0px;
+
+    height: 60px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 16px 48px 16px 48px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =============================================== why-learn-section START ==================================================== */
+.why-learn-section {
+    width: 100%;
+    background-color: #F7FAFF;
+}
+
+.why-learn-inner-section {
+    width: 90%;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.why-learn-inner-section h2 {
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 45px;
+}
+
+.why-learn-inner-section p {
+    color: #0A2134;
+    font-weight: 400;
+    margin: 20px 0px;
+    font-size: 18px;
+}
+
+
+
+.why-learn-card-container {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px;
+    justify-content: space-evenly;
+}
+
+.why-card-item1 {
+    width: 370px;
+    height: 284px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    border: 1px solid #F2F4F7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    padding: 7px 15px;
+}
+
+.card-item1-img-box {
+    width: 64px;
+    height: 64px;
+    background-color: #f5bcbc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-self: center;
+    align-items: center;
+}
+
+.card-item1-img-box img {
+    height: 40%;
+    width: 40%;
+    margin: auto;
+}
+
+
+.card-item1-content h6 {
+    font-size: 20px;
+    font-weight: 600px;
+    color: #0A2134;
+    margin: 15px 0px;
+}
+
+
+.card-item1-content p {
+    font-size: 16px;
+    font-weight: 400px;
+    color: #0A2134;
+    line-height: 26px;
+}
+
+
+.why-learn-section-btn {
+    width: 288px;
+    align-self: center;
+    margin: 40px 0px;
+
+    height: 60px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 16px 48px 16px 48px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ===================================== what-our-student START ====================================================== */
+.what-our-student {
+    width: 100%;
+}
+
+.what-our-student-inner-section {
+    width: 90%;
+    margin: auto;
+}
+
+
+.what-our-student-inner-section h2 {
+    font-size: 44px;
+    color: #0A2134;
+    font-weight: 700px;
+    text-align: center;
+}
+
+.what-our-student-inner-section-p {
+    font-size: 18px;
+    font-weight: 400px;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+
+
+.what-our-student-card-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.what-student-card-item {
+    width: 570px;
+    height: 285px;
+    border: 1px solid #F2F4F7;
+    box-shadow: 0px 4px 20px -2px #002F5814;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.image-heading {
+    display: flex;
+    margin: 25px 28px;
+}
+
+.image-heading .img-box {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.image-heading .img-box>img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.heading-box h6 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+.heading-box p {
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 15px;
+}
+
+
+.text-content {
+    padding: 0px 40px;
+}
+
+.text-content p {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ================================ are-you-ready-inner-section START ========================================= */
+
+.are-you-ready-section {
+    width: 100%;
+    padding: 40px 0px;
+}
+
+
+.are-you-ready-inner-section {
+    width: 80%;
+    border-radius: 16px;
+    margin: 40px auto;
+    height: 384px;
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.are-you-ready-leftBox {
+    height: 375px;
+    width: 266px;
+    background-image: url('images/curve.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 80%;
+
+}
+
+
+.are-you-ready-midBox {
+    width: 44%;
+    height: 384px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.are-you-ready-midBox h3 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 10px;
+}
+
+
+.are-you-ready-midBox p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 10px;
+}
+
+
+
+.are-you-ready-btn {
+    width: 253px;
+    height: 60px;
+    text-align: center;
+    border-radius: 8px;
+    color: #0A2134;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    /* background-image: linear-gradient(to right, #0ACEFE, #2699FB); */
+    background-color: #FFFFFF;
+    padding: 16px 48px 16px 48px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px 0px;
+}
+
+
+.are-you-ready-rightBox {
+    height: 375px;
+    width: 266px;
+    background-image: url('images/curve.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX(-1);
+    opacity: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==================================== digital-marketing-course-section START ================================================= */
+.digital-marketing-course-section {
+    width: 100%;
+    background-color: #F7FAFF;
+    padding: 40px 0px;
+}
+
+
+.digital-marketing-course-inner-section {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.digital-marketing-course-inner-section h3 {
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+
+.digital-marketing-course-inner-section p {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+
+.what-is-website-box {
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    border-image-slice: 1;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 163px;
+    border-radius: 8px;
+    padding: 2px 20px;
+}
+
+.what-is-website-box h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 10px 0px;
+    color: #2699FB;
+}
+
+
+.what-is-website-box p {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 24px;
+}
+
+
+.digital-marketing-course-inner-section ul>li {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    margin: 15px 0px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 9px 11px;
+}
+
+
+
+.digital-marketing-course-btn {
+    width: 253px;
+    height: 60px;
+    margin: 30px auto;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 16px 48px 16px 48px;
+    box-shadow: 0px 1px 2px 0px #1018280D, 0px 4px 14px 2px #2699FB61;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ============================================== top-company-hiring-section START  =========================================== */
+.top-company-hiring-section {
+    width: 100%;
+    height: 300px;
+}
+
+.top-company-inner-section {
+    width: 90%;
+    margin: auto;
+
+}
+
+.top-company-inner-section h3{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin: 50px 0px;
+
+}
+
+.top-company-image {
+    width: 100%;
+    margin: auto;
+    height: 102px;
+    overflow: hidden;
+}
+
+.top-company-image img {
+    width: 100%;
+    margin-top: -32px;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* ==================================== footer START ======================================= */
+footer {
+    width: 100%;
+    height: 282px;
+    background-color: #0A2540;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+footer div {
+    width: 100%;
+    margin-top: 80px;
+    text-align: center;
+}
+
+footer p {
+    margin: 10px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFFFFF;
+
+}

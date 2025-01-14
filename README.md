@@ -1,2 +1,1 @@
-# Figma-to-Html-Responsive
-Figma to Html Fully Responsive Website
+Figma to Html Fully Responsive Landing Page
